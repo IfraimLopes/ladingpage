@@ -6,6 +6,9 @@
     margin-top: 10px;
 }
 
+body{
+    overflow: hidden;
+}
 
 
 #body-one{
